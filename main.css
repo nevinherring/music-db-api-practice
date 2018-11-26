@@ -43,7 +43,7 @@ input:focus{
 
 /* Albums */
 
-#ablum_list_container {
+#album_list_container {
     margin-top: 50px;
 }
 
@@ -82,4 +82,9 @@ input:focus{
     border-radius: 50px;
     margin-top: 20px;
     cursor: pointer;
+}
+
+#not_match {
+    display: none;
+    text-align: center;
 }
